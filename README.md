@@ -8,4 +8,6 @@ Open your image, apply any filter and save it on your computer. Available filter
 5) Horizontal Nearest Neighbor
 
 The main code is in MyForm.h
-![e3d04cd9730f7ce63315d6f3edbb139d](https://user-images.githubusercontent.com/37930588/179539750-7edbc247-e26c-4c27-a163-ea0771eadb69.jpg)
+Screenshots:
+  Filter 1:
+![e3d04cd9730f7ce63315d6f3edbb139d](https://user-images.githubusercontent.com/37930588/179540266-04d0fdad-b731-4ef0-bebe-ace62f72a478.jpg)
