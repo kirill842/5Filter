@@ -13,4 +13,4 @@ Screenshots:
 
   Filter 1:
   
-![dog1](https://user-images.githubusercontent.com/37930588/179540384-b1dae6fd-5416-462c-b6c2-1c72bd8caf14.jpg)
+![filter1](https://user-images.githubusercontent.com/37930588/179541283-45391ca5-9173-4d95-9b11-da21977c0934.PNG)
