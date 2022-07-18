@@ -10,4 +10,4 @@ Open your image, apply any filter and save it on your computer. Available filter
 The main code is in MyForm.h
 Screenshots:
   Filter 1:
-![e3d04cd9730f7ce63315d6f3edbb139d](https://user-images.githubusercontent.com/37930588/179540266-04d0fdad-b731-4ef0-bebe-ace62f72a478.jpg)
+![dog1](https://user-images.githubusercontent.com/37930588/179540384-b1dae6fd-5416-462c-b6c2-1c72bd8caf14.jpg)
